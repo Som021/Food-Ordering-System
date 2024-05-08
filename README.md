@@ -1,6 +1,7 @@
 # Food-Ordering-System
 
 ##Required npm
+
 npx create-next-app@latest food-app --javascript
 npm install react-icons
 npm install axios
